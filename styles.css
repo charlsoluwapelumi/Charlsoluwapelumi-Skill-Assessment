@@ -1,0 +1,18 @@
+/* the black box */
+.square {
+    background-color: black;
+    width: 600px;
+    height: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 0 10px;
+}
+
+/* the white circle */
+.round{
+    background-color: white;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
